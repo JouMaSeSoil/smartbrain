@@ -1,0 +1,23 @@
+.Tilt {
+    background : black
+}
+
+img {    
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    }
+
+    .cover {
+
+        display: block;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    
+      background: url(logo.jpg) ;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+     }
